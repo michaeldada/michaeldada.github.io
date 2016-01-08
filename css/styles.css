@@ -22,8 +22,9 @@ body{
     background-color:#ffe2c0;
 }
 
-foot{
+footer{
     float:right;
+    display:block;
 }
 
 p{
