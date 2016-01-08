@@ -27,7 +27,7 @@ footer{
     display:block;
 }
 footer p{
-    font-size:1em;
+    font-size:.8em;
 }
 
 p{
@@ -59,4 +59,8 @@ li{
     display:block;
     text-align:center;
     font-size:1.2em;
+}
+
+.navbar-brand{
+    color:22072B;
 }
