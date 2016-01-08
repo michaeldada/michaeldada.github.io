@@ -26,6 +26,9 @@ footer{
     float:right;
     display:block;
 }
+footer p{
+    font-size:1em;
+}
 
 p{
     text-align:center;
