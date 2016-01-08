@@ -1,4 +1,4 @@
-.jumbotron{
+c9.jumbotron{
     text-align:center;
     background-color:green;
     color:white;
@@ -20,6 +20,10 @@
 
 body{
     background-color:#ffe2c0;
+}
+
+foot{
+    float:right;
 }
 
 p{
